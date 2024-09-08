@@ -14,4 +14,15 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01 calc_scores.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02 calc_time.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03 seq_search.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\01 calc_scores.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|solutionrelative:CHAP01\\01 calc_scores.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01 calc_scores.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\01 calc_scores.c",
+              "RelativeDocumentMoniker": "CHAP01\\01 calc_scores.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\01 calc_scores.c",
+              "RelativeToolTip": "CHAP01\\01 calc_scores.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-08T15:56:11.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
