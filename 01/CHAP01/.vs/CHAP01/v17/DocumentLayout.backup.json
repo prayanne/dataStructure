@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\03 seq_search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|solutionrelative:CHAP01\\03 seq_search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\01 calc_scores.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|solutionrelative:CHAP01\\01 calc_scores.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\02 calc_time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BBC35E6-3777-47E7-9054-EB6AD044CEF5}|CHAP01\\CHAP01.vcxproj|solutionrelative:CHAP01\\02 calc_time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "03 seq_search.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\03 seq_search.c",
+              "RelativeDocumentMoniker": "CHAP01\\03 seq_search.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\03 seq_search.c",
+              "RelativeToolTip": "CHAP01\\03 seq_search.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T17:44:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02 calc_time.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\02 calc_time.c",
+              "RelativeDocumentMoniker": "CHAP01\\02 calc_time.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\02 calc_time.c",
+              "RelativeToolTip": "CHAP01\\02 calc_time.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T17:28:29.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "01 calc_scores.c",
               "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\01 calc_scores.c",
               "RelativeDocumentMoniker": "CHAP01\\01 calc_scores.c",
               "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\01\\CHAP01\\CHAP01\\01 calc_scores.c",
               "RelativeToolTip": "CHAP01\\01 calc_scores.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-08T15:56:11.494Z",
               "EditorCaption": ""
