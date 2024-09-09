@@ -1,6 +1,16 @@
 #define _CRT_SECURE_NO_WARNIGS 
 #include <stdio.h>
 
+#define MAX_AMT = 5
+
+int arr[MAX_AMT]
+
+int main(void)
+{
+	seq_search(arr, MAX_AMT, 2);
+	return 0;
+}
+
 int seq_search(int list[], int n, int key)
 {
 	int i;

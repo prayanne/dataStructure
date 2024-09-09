@@ -1,8 +1,8 @@
-﻿#define _CRT_SECURE_NO_WARNIGS 
+﻿#define _CRT_SEn	CURE_NO_WARNIGS 
 
 #include <stdio.h>
 #define MAX_ELEMENTS 3
-int scores[MAX_ELEMENTS];	// 자료구조, 전역배열
+int scores[MAX_ELEMENTS];	// 자료구조, 전역배열, 전역배열은 기본 초기화 값이 0이다. 쓰레기 값이 아님,
 
 int get_max_score(int n);   // 함수의 선언, 함수의 리스트
 

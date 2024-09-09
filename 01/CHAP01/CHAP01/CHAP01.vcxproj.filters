@@ -24,5 +24,8 @@
     <ClCompile Include="03 seq_search.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04 FILE.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
