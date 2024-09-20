@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kyhy0\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\02\\CHAP02\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\02\\CHAP02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\01 factoria.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01 factoria.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\01 factoria.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\01 factoria.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\01 factoria.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\01 factoria.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T01:34:04.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
