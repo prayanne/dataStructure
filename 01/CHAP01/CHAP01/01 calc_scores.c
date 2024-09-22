@@ -7,7 +7,7 @@
 
 #define MAX_ELEMENTS 3
 #define MAX_AMT  5          // 배열의 크기를 상수로 정의
-#define MAX_INT 100000
+#define MAX_INT 100000000
 
 int scores[MAX_ELEMENTS];	// 자료구조, 전역배열, 전역배열은 기본 초기화 값이 0이다. 쓰레기 값이 아님,
 int arr[MAX_AMT];           // arr 배열 선언
@@ -28,13 +28,14 @@ FILE* p; //파일을 가르키는 포인터 변수, 형식 FILE, 포인터 변�
 
 int main(void)
 {	
-	p = fopen("logfile.txt", "a+");  //w모드는 기존 파일을 전부 삭제후 작성함 a+모드는 기존파일에 추가함
+	//p = fopen("logfile.txt", "a+");  //w모드는 기존 파일을 전부 삭제후 작성함 a+모드는 기존파일에 추가함
+	p = fopen("logfile.txt", "w");  //w모드는 기존 파일을 전부 삭제후 작성함 a+모드는 기존파일에 추가함
 
 	input_value4max();      // 배열 값 입력 함수
 	int result;             // 함수에서 최대값을 반환하면, 그 값을 저장하는 변수이다.
 	result = get_max_score(MAX_ELEMENTS);
 	printf("결과:%d\n ",result);// 반환된 최대값을 자연어로 모니터에 출력한다.
-	fprintf(p, "최대값은 %d초입니다.\n", result);
+	fprintf(p, "1. 최대값은 %d입니다.\n\n", result);
 
 	get_time();
 
@@ -81,8 +82,8 @@ int get_time()
 
 	stop = clock();	// 측정 종료
 	duration = (double)(stop - start) / CLOCKS_PER_SEC;
-	printf("수행시간은 %lf초입니다.\n", duration);
-
+	printf("수행시간은 %.04lf초입니다.\n", duration);
+	fprintf(p, "2. 수행시간은 %.04lf초입니다.\n\n", duration);
 	return 0;
 }
 
@@ -99,13 +100,13 @@ int search2arr(void)
 	if (result == -1) // 배열에서 값이 없을 때, result = -1
 	{
 		printf("해당하는 값이 배열 내에 없습니다.");
-		fprintf(p, "해당하는 값이 배열 내에 없습니다");
+		fprintf(p, "3. 해당하는 값이 배열 내에 없습니다");
 
 	}
 	else              // 배열에서 값이 있을 때, result != -1
 	{
-		printf("해당하는 값이 배열 내에 있습니다.\n 해당 값은 배열 중, %d번째에 있습니다.", result + 1);
-		fprintf(p, "해당하는 값이 배열 내에 있습니다.\n 해당 값은 배열 중, % d번째에 있습니다.", result + 1);
+		printf("해당하는 값이 배열 내에 있습니다.\n해당 값은 배열 중, %d번째에 있습니다.", result + 1);
+		fprintf(p, "3. 해당하는 값이 배열 내에 있습니다.\n   해당 값은 배열 중, %d번째에 있습니다.", result + 1);
 
 	}
 	return 0;
