@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <time.h>       // clock_t, CLOCK_PER_SEC 등을 사용하기 위해 header파일을 불러온다.
 #define MAX_INT 1000000 // 사후 관리를 위해 상수를 MAX_INT로 설정한다.
 
 int main(void)

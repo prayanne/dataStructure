@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\자료\08 recursion_hanoi.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\자료\01 factoria.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -34,9 +37,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="..\..\자료\07 fib_iter.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\자료\08 recursion_hanoi.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

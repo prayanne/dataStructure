@@ -1,2 +1,1 @@
-﻿  03 seq_search.c
-  CHAP01.vcxproj -> D:\Study\자료구조\01\CHAP01\x64\Debug\CHAP01.exe
+﻿LINK : fatal error LNK1168: D:\Study\자료구조\01\CHAP01\x64\Debug\CHAP01.exe을(를) 쓰기용으로 열 수 없습니다.

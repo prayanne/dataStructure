@@ -1,12 +1,148 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kyhy0\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\02\\CHAP02\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\CHAP02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\03 factorial_iter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\05 power.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\08 recursion_hanoi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\06 fib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\01 factoria.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\02 factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\04 slow_power.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEAEA21-BC1A-4909-8A94-2D97C3813A5A}|CHAP02\\CHAP02.vcxproj|D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\07 fib_iter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03 factorial_iter.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\03 factorial_iter.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\03 factorial_iter.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\03 factorial_iter.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\03 factorial_iter.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:45:07.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "04 slow_power.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\04 slow_power.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\04 slow_power.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\04 slow_power.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\04 slow_power.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:45:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "06 fib.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\06 fib.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\06 fib.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\06 fib.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\06 fib.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:44:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05 power.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\05 power.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\05 power.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\05 power.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\05 power.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:45:04.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02 factorial.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\02 factorial.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\02 factorial.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\02 factorial.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\02 factorial.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:45:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01 factoria.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\01 factoria.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\01 factoria.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\01 factoria.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\01 factoria.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:45:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "07 fib_iter.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\07 fib_iter.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\07 fib_iter.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\07 fib_iter.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\07 fib_iter.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:44:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08 recursion_hanoi.c",
+              "DocumentMoniker": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\08 recursion_hanoi.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\08 recursion_hanoi.c",
+              "ToolTip": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\02\\\uC790\uB8CC\\08 recursion_hanoi.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\08 recursion_hanoi.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T12:29:04.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
