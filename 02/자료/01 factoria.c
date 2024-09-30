@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #define _CRT_SECURE_NO_WARRINGS
 #pragma warning(disable:4996)
 
@@ -46,3 +47,11 @@ int factorial_iter(int n)
         result = result * i;
     return(result);
 }
+=======
+//int factorial(int n)
+//{
+//    //printf("factorial(%d)\n",n);
+//    if( n <= 1 ) return(1);
+//    else return (n * factorial(n-1) );
+//}
+>>>>>>> 4974a642857b6021c03da7430fb06b475ddb6153
