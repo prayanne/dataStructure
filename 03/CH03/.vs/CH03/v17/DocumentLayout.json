@@ -1,11 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\03\\CH03\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\03\\CH03\\",
+>>>>>>> 012e1428de44ce8e818b6376ea39bd86b36f9da1
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -26,6 +31,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> 012e1428de44ce8e818b6376ea39bd86b36f9da1
     }
   ]
 }

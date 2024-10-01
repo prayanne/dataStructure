@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+﻿  FileName2.c
+  CHAP02.vcxproj -> C:\Users\kyhy0\OneDrive\Desktop\study\자료구조\02\CHAP02\x64\Debug\CHAP02.exe
+=======
 ﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
 D:\Study\자료구조\02\CHAP02\x64\Debug\CHAP02.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+>>>>>>> 4974a642857b6021c03da7430fb06b475ddb6153

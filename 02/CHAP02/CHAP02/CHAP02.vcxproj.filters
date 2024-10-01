@@ -39,5 +39,20 @@
     <ClCompile Include="..\..\자료\07 fib_iter.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="..\..\자료\08 recursion_hanoi.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Downloads\01 mine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+=======
+>>>>>>> 4974a642857b6021c03da7430fb06b475ddb6153
   </ItemGroup>
 </Project>

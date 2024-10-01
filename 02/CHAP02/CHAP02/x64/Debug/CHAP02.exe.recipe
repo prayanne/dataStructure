@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
+      <FullPath>C:\Users\kyhy0\OneDrive\Desktop\study\자료구조\02\CHAP02\x64\Debug\CHAP02.exe</FullPath>
+=======
       <FullPath>D:\Study\자료구조\02\CHAP02\x64\Debug\CHAP02.exe</FullPath>
+>>>>>>> 4974a642857b6021c03da7430fb06b475ddb6153
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
