@@ -3,20 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\CH04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\05 stack5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\08 infix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\03 stack3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\07 postfix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\02 stack2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\06 paren_matching.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\CH04\\10 useStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|solutionrelative:10 useStack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\01 stack1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\09 maze.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\05 stack5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A04EA7-A92B-4317-A3C0-13C282E1B6B2}|CH04.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\03 stack3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +32,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "09 maze.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\09 maze.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\09 maze.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\09 maze.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\09 maze.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T11:07:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "08 infix.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\08 infix.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\08 infix.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\08 infix.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\08 infix.c",
+              "ViewState": "AgIAAFYAAAAAyMzMzMwEwGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T11:07:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07 postfix.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\07 postfix.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\07 postfix.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\07 postfix.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\07 postfix.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T11:07:01.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "06 paren_matching.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\06 paren_matching.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\06 paren_matching.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\06 paren_matching.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\06 paren_matching.c",
+              "ViewState": "AgIAAEoAAABAZ2ZmZmYYwFMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T11:06:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "05 stack5.c",
               "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\05 stack5.c",
               "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\05 stack5.c",
               "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\05 stack5.c",
               "RelativeToolTip": "..\\\uC790\uB8CC\\05 stack5.c",
-              "ViewState": "AgIAAB4AAADAzMzMzMwUwDgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAgAAAAAAAowCUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-30T09:38:06.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "03 stack3.c",
               "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\03 stack3.c",
               "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\03 stack3.c",
@@ -61,33 +119,10 @@
               "RelativeDocumentMoniker": "10 useStack.c",
               "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\CH04\\10 useStack.c",
               "RelativeToolTip": "10 useStack.c",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwE4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAADAZWZmZmYewEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-30T09:19:22.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "02 stack2.c",
-              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\02 stack2.c",
-              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\02 stack2.c",
-              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\02 stack2.c",
-              "RelativeToolTip": "..\\\uC790\uB8CC\\02 stack2.c",
-              "ViewState": "AgIAAEMAAAAAmpmZmZkdwE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-30T08:33:33.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "01 stack1.c",
-              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\01 stack1.c",
-              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\01 stack1.c",
-              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\04\\\uC790\uB8CC\\01 stack1.c",
-              "RelativeToolTip": "..\\\uC790\uB8CC\\01 stack1.c",
-              "ViewState": "AgIAACYAAAAAzczMzMwewDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-30T07:36:10.89Z"
+              "WhenOpened": "2024-09-30T09:19:22.128Z",
+              "EditorCaption": ""
             }
           ]
         }

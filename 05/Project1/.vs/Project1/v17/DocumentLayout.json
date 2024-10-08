@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7DB1E-27BF-41F7-9C4B-10A787F3A190}|Project1.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\06 smart_factory.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7DB1E-27BF-41F7-9C4B-10A787F3A190}|Project1.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\05 bank_simul.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7DB1E-27BF-41F7-9C4B-10A787F3A190}|Project1.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\04 deque.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7DB1E-27BF-41F7-9C4B-10A787F3A190}|Project1.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\02 cir_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7DB1E-27BF-41F7-9C4B-10A787F3A190}|Project1.vcxproj|C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\01 linear_queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05 bank_simul.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\05 bank_simul.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\05 bank_simul.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\05 bank_simul.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\05 bank_simul.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T10:16:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04 deque.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\04 deque.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\04 deque.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\04 deque.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\04 deque.c",
+              "ViewState": "AgIAAB0AAABgZmZmZmYuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T10:08:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06 smart_factory.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\06 smart_factory.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\06 smart_factory.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\06 smart_factory.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\06 smart_factory.c",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T10:07:51.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02 cir_queue.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\02 cir_queue.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\02 cir_queue.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\02 cir_queue.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\02 cir_queue.c",
+              "ViewState": "AgIAABkAAAAAAIAVuOwmwAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T10:06:45.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01 linear_queue.c",
+              "DocumentMoniker": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\01 linear_queue.c",
+              "RelativeDocumentMoniker": "..\\\uC790\uB8CC\\01 linear_queue.c",
+              "ToolTip": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\05\\\uC790\uB8CC\\01 linear_queue.c",
+              "RelativeToolTip": "..\\\uC790\uB8CC\\01 linear_queue.c",
+              "ViewState": "AgIAACYAAAAAAAAAAAAtwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T07:39:38.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
