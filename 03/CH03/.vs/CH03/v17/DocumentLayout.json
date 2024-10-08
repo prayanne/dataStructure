@@ -1,12 +1,39 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\Study\\\uC790\uB8CC\uAD6C\uC870\\03\\CH03\\",
+=======
   "WorkspaceRootPath": "C:\\Users\\kyhy0\\OneDrive\\Desktop\\study\\\uC790\uB8CC\uAD6C\uC870\\03\\CH03\\",
+>>>>>>> 012e1428de44ce8e818b6376ea39bd86b36f9da1
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+=======
       "DocumentGroups": []
+>>>>>>> 012e1428de44ce8e818b6376ea39bd86b36f9da1
     }
   ]
 }
